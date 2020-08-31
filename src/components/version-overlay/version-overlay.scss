@@ -1,0 +1,10 @@
+.overlay {
+  position: fixed;
+  bottom: 10px;
+  right: 15px;
+  opacity: 0.15;
+  text-align: right;
+  z-index: 0;
+  user-select: none;
+  pointer-events: none;
+}
